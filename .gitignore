@@ -1,0 +1,28 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Mobile App Files #
+*.apk
+*.ipa
+
+# Files that might hold secrets
+*.properties
+*.config
+*.sql
+
+# Operating System Files #
+.DS_Store
+Thumbs.db
+
+# IDE - VS Code
+.vscode/
+**/bin/
+**/target/
